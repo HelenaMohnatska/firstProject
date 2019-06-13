@@ -2,8 +2,8 @@
 
 // Массив с параметрами подключения к базе данных
 return array(
-    'host' => 'localhost',
-    'dbname' => 'phpshop',
+    'host' => 'myProgect.com',
+    'dbname' => 'phpshop2',
     'user' => 'phpstart',
     'password' => '',
 );
