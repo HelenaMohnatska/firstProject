@@ -2,7 +2,7 @@
 
 /**
  * Контроллер AdminCategoryController
- * Управление категориями товаров в админпанели
+ * Управление категориями товаров
  */
 class AdminCategoryController extends AdminBase
 {
