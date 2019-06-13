@@ -2,7 +2,7 @@
 
 /**
  * Контроллер AdminController
- * Главная страница в админпанели
+ * Главная страница в админпане
  */
 class AdminController extends AdminBase
 {
